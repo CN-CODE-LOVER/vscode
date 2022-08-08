@@ -1,2 +1,2 @@
 first;
-secend
+secend;
